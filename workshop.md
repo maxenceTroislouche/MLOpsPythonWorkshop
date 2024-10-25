@@ -1,4 +1,4 @@
-# Workshop MLOps 
+# Workshop MLOps  
 
 Welcome aboard the MLOpsPython team !
 
